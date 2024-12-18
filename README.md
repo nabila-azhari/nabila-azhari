@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my profile repository!
 
 ## About Me  
-Hi, I'm **Nabila Putri Azhari**! ✨  
+Hi, I'm **Nabila Putri Azhari**! Telkom University Undergraduate Informatics Student, 3rd semester✨  
 I'm passionate about **data research** and **artificial intelligence** (AI). 
 With a curious mind and a love for exploration,
 
