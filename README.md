@@ -12,7 +12,6 @@ Whether it's crafting visually appealing designs or creating engaging content, I
 
 ## Interests
 - **Data Research:** Exploring datasets to uncover trends and patterns.
-- **Artificial Intelligence:** Building intelligent solutions to solve real-world problems.
-- **Digital Design:** From graphics to UI/UX, I enjoy creating aesthetic visuals.
+- **Digital Design:** From graphics to UI/UX, Front End, I enjoy creating aesthetic visuals.
 
 ---
