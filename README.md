@@ -5,7 +5,7 @@ Hi, I'm **Nabila Putri Azhari**! Telkom University Undergraduate Informatics Stu
 I'm passionate about **data research** and **artificial intelligence** (AI). 
 With a curious mind and a love for exploration,
 
-But that's not all! Behind the numbers and algorithms, I also enjoy delving into the creative world of **digital design**.
+But that's not all! I also enjoy delving into the creative world of **digital design**.
 Whether it's crafting visually appealing designs or creating engaging content, I believe in the balance of science and art.
 
 ---
